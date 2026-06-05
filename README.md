@@ -55,6 +55,25 @@ By the end of this book, you will be able to plan, build, and govern generative 
 </details>
 
 <details open>
+  <summary><h3>Errata</h3></summary>
+
+  <ul>
+    <li>
+      Page xxvii (Paragraph 3, in the <em>Download the color images</em> section):
+      The URL
+      <a href="https://packt.link/gbp/9781806673957">
+        https://packt.link/gbp/9781806673957
+      </a>
+      should be
+      <a href="https://packt.link/gbp/9781806104451">
+        https://packt.link/gbp/9781806104451
+      </a>.
+    </li>
+  </ul>
+</details>
+
+
+<details open>
   <summary><h2>Get to know Authors</h2></summary>
 
 _Nestor Gandara_ is a technology leader with over 20 years of IT experience specializing in Generative AI, cloud, and digital transformation. As Principal Partner SA and Generative AI Strategist at Amazon Web Services, he partners with C-suite executives to bridge the gap between technology and business value. Nestor is a program lead, mentor, and learning facilitator for MIT Professional Education and a faculty member at IENYC and ISDI. As the Founder of NextLevelguru and author of "The Art of Building Your Resilience and Adaptability," by combining executive leadership with talent mentoring, he holds a unique position at the intersection of Next-Gen Enterprise technology, education, and business strategy.
